@@ -6,12 +6,12 @@ Este projeto analisa a desigualdade social e seu impacto na presença feminina n
 
 <h3>Objetivos gerais e específicos do projeto</h3>
 
-<p>
+<p align="justify">
 <b>Gerais:</b>
-  <p>O objetivo geral do projeto é compreender como a desigualdade social influencia a presença feminina no mercado de trabalho, especificamente na área de dados, e identificar a desigualdade de gênero nesse setor.</p>
+<p align="justify">O objetivo geral do projeto é compreender como a desigualdade social influencia a presença feminina no mercado de trabalho, especificamente na área de dados, e identificar a desigualdade de gênero nesse setor.</p>
 </p>
 
-<p>
+<p align="justify">
 <b>Específicos:</b>
   
  - Identificar a desigualdade de gênero na área de dados no mercado de trabalho brasileiro.
