@@ -1,18 +1,22 @@
 <h1>Contexto</h1>
 
 <p align="justify">
-Esse projeto consiste na análise da desigualdade social e como ela afeta a presença feminina no mercado de trabalho. O objetivo desse projeto é disparidade entre generos na área de dados.
-Para desenvolver esse projeto, desenvolvemos uma análise exploratória de dados xxxxxxx e utilizamos o Tableau para gerar a visualização das nossas análises.
+Este projeto analisa a desigualdade social e seu impacto na presença feminina no mercado de trabalho, com foco na disparidade de gênero na área de dados. Realizamos uma análise exploratória de dados sobre o mercado de trabalho brasileiro nessa área e utilizamos o Tableau para criar visualizações das nossas análises.
 </p>
 
 <h3>Objetivos gerais e específicos do projeto</h3>
 
-<p>
+<p align="justify">
 <b>Gerais:</b>
+<p align="justify">O objetivo geral do projeto é compreender como a desigualdade social influencia a presença feminina no mercado de trabalho, especificamente na área de dados, e identificar a desigualdade de gênero nesse setor.</p>
 </p>
 
-<p>
+<p align="justify">
 <b>Específicos:</b>
+  
+ - Identificar a desigualdade de gênero na área de dados no mercado de trabalho brasileiro.
+ - Avaliar o impacto da desigualdade social na participação feminina no mercado de trabalho.
+ - Analisar como a desigualdade de gênero se manifesta em diferentes regiões do Brasil.
 </p>
 
 
