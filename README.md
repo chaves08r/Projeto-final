@@ -2,7 +2,7 @@
   Desigualdade de gênero na área de dados e seus desdobramentos
 </h1>
 
-<h3 align="center">{reprograma} | Turma Online 29 | Semanas 17 e 18 | 2024 |</h3>
+<h3 align="center">{reprograma} | Turma Online 29 | Semanas 17 e 18 | 2024 | Projeto final</h3>
 
 <h4 align="center">
   
