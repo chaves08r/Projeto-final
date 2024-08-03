@@ -17,12 +17,23 @@
 <h3>Perguntas norteadoras:</h3>
 
 <p align="justify">
-  
- 1. Qual é o perfil demográfico das pessoas que trabalham na área de dados?
- 2. Qual é a distribuição de gênero nos diferentes níveis hierárquicos?
- 3. Existem variações significativas no perfil demográfico entre diferentes regiões do Brasil?
- 4. Quais são as tendências e padrões que podem ser identificados a partir dos dados (ex.: evolução das diferenças salariais ao longo do tempo)?
- 5. Quais são as tendências e padrões que podem ser identificados a partir dos dados? Essas tendências se apresentam nas diferentes regiões do Brasil?
+ <b>1.</b> Qual é o perfil demográfico das pessoas que trabalham na área de dados?
+</p>
+
+<p align="justify">
+ <b>2.</b> Qual é a distribuição de gênero nos diferentes níveis hierárquicos?
+</p>
+
+<p align="justify">
+ <b>3.</b> Existem variações significativas no perfil demográfico entre diferentes regiões do Brasil?
+</p>
+
+<p align="justify">
+ <b>4.</b> Quais são as tendências e padrões que podem ser identificados a partir dos dados (ex.: evolução das diferenças salariais ao longo do tempo)?
+</p>
+
+<p align="justify">
+ <b>5.</b> Quais são as tendências e padrões que podem ser identificados a partir dos dados? Essas tendências se apresentam nas diferentes regiões do Brasil?
 </p>
 
 <h3>Bases escolhidas:</h3>
@@ -34,7 +45,6 @@
 <h2>Introdução</h2>
 
 <p align="justify">
-
   A desigualdade de gênero existe há muito tempo e é resultado de séculos de opressão e desvalorização da mulher, no Brasil, esse padrão é a raiz da permanência e reprodução das situações de pobreza e exclusão social. Para enfrentar essas desigualdades é importante entender como essa problemática se manifesta, o que pode ser mudado e quais são os atuais programas de reparação que objetivam reduzir essa desigualdade. Transformar essa realidade é importante para garantir que todas as pessoas tenham boas condições de trabalho e para cumprir os Objetivos de Desenvolvimento do Milênio, que são metas globais para melhorar a vida das pessoas.
 </p>
 
@@ -45,7 +55,6 @@
 </p>
 
 <p align="justify">
-  
   Torna-se cada vez mais claro que iniciativas como a Reprograma são essenciais para tornar a área mais plural e equitativa. Nosso objetivo, enquanto alunas e futuras analistas, foi entender as lacunas e o mercado de trabalho que podemos enfrentar.
 </p>
 
@@ -66,12 +75,14 @@
 <h3>Bibliografia:</h3>
 
 <p align="justify">
-
   ABRAM, Laís. Desigualdades de gênero e raça no mercado de trabalho brasileiro. Ciência e cultura, v. 58, n. 4, p. 40-41, 2006.
-  
-  COBO, Barbara; OLIVEIRA, Beatriz Menezes Marques de. Desigualdades no mercado de trabalho brasileiro: uma proposta de conceituação e mensuração do trabalho precário sob a lupa da interseccionalidade. Revista Brasileira de Estudos de População, v. 41, p. e0260, 2024.
-  
-  MENDES, Isabela Hadres; MELO, Sabrina Hahn; PETRÓ, Vanessa. Construindo pontes para a equidade de gênero na área de Tecnologia da Informação. Anais do Computer on the Beach, v. 15, p. 206-213, 2024.
+</p>
 
+<p align="justify">
+  COBO, Barbara; OLIVEIRA, Beatriz Menezes Marques de. Desigualdades no mercado de trabalho brasileiro: uma proposta de conceituação e mensuração do trabalho precário sob a lupa da interseccionalidade. Revista Brasileira de Estudos de População, v. 41, p. e0260, 2024.
+</p>
+
+<p align="justify">
+  MENDES, Isabela Hadres; MELO, Sabrina Hahn; PETRÓ, Vanessa. Construindo pontes para a equidade de gênero na área de Tecnologia da Informação. Anais do Computer on the Beach, v. 15, p. 206-213, 2024.
 </p>
   
